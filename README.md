@@ -221,7 +221,5 @@ Have questions or suggestions? Feel free to reach out!
 <div align="center">
 
 **⭐ Star this repo if you find it helpful!**
-
-Made with Python
-
+Thank you.
 </div>
